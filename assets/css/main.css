@@ -71,7 +71,7 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-technical-skills .container {
+#technical-skills .container {
     text-align: left;
 }
 /* Basic */
